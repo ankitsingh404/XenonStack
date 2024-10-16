@@ -1,2 +1,2 @@
 # XenonStack
-Used css html and js.
+Used css html and js only 🤧
